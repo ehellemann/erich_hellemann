@@ -1,3 +1,40 @@
+# [My webpage](https://ehellemann.github.io/erich-hellemann/)
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
+[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+
+This is the repository of my personal webpage. It is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
+
+The pages are markdown files. This is how the code looks like.
+
+1. Bash:
+
+   ```bash
+   namd +p 32 config.in > out.log
+   ```
+
+2. python:
+
+   ```python
+   import numpy as np
+
+   for i in range(100):
+      sqrt = np.sqrt(i)
+      print(sqrt)
+   ```
+
+3. yaml:
+
+   ```yaml
+   theme: minimal-mistakes-jekyll
+   ```
+
+---------
+
+
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
