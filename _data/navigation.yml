@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About me"
+    url: /about_me/
+    description: Everything you need to know about me
+  - title: "Guides"
+    url: /guides/
+    description: Some CADD and NMR guides
+  - title: "Publications"
+    url: /publications/
+    description: All my publications are here
+  - title: "Random stuff"
+    url: /random/
+    description: An assortment of random stuff
