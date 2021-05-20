@@ -9,7 +9,7 @@ toc_label: "Guides"
 
 ## Computer Aided Drug Design (CAAD)
 
-asdfghjasdfghjkl;
+List of small molecule databases
 
 ## Nuclear Magnetic Resonance (NMR)
 
