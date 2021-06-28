@@ -9,8 +9,8 @@ toc_label: "Guides"
 
 ## Computer Aided Drug Design (CAAD)
 
-List of small molecule databases
+Here you should find a [list of small molecule databases](_pages/small_mol_db)
 
 ## Nuclear Magnetic Resonance (NMR)
 
-asadf
+Here I will start uploading some NMR guides, time permiting. 

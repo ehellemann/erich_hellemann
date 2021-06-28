@@ -37,5 +37,3 @@ toc_label: "List of my publications"
 
 ### Stability and Reactivity of 1, 3-Benzothiaphosphole: Metalation and Diels–Alder Chemistry
 - Joshua C Worch, **Erich Hellemann**, Gabrielle Pros, Chakicherla Gayathri, Tomislav Pintauer, Roberto R Gil, Kevin JT Noonan, "Stability and Reactivity of 1, 3-Benzothiaphosphole: Metalation and Diels–Alder Chemistry", *Organometallics*, **2015**, 32, 22, 5366-5373. DOI:[10.1021/acs.organomet.5b00583](https://pubs.acs.org/doi/abs/10.1021/acs.organomet.5b00583){:target="_blank"}
-
-
