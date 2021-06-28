@@ -21,3 +21,6 @@ Presented bellow is a list of some databases that can be used for CADD:
 - Therapeutic Target Database [link](http://db.idrblab.net/ttd/)
 - Super Natural II [link](http://bioinf-applied.charite.de/supernatural_new/index.php)
 - South African Natural Compounds Database [link](https://sancdb.rubi.ru.ac.za/)
+
+
+Here is the link to return to the [guides page](_pages/guides.md)
