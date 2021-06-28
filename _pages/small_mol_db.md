@@ -23,4 +23,4 @@ Presented bellow is a list of some databases that can be used for CADD:
 - South African Natural Compounds Database [link](https://sancdb.rubi.ru.ac.za/)
 
 
-Here is the link to return to the [guides page](_pages/guides.md)
+Here is the link to return to the [guides page](guides.md)
