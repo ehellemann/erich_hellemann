@@ -10,4 +10,4 @@ Hi, in this place you will find stuff that is not science related. You may encou
 
 I will start with the picture of my lovely Huitlacoche. Her name comes from the mexican delicacy [Huitlacoche](https://en.wikipedia.org/wiki/Corn_smut){:target="_blank"}.  
 
-![Huitlacoche](./assets/images/huitlacoche_small.png)
+![Huitlacoche](https://www.flickr.com/photos/ehellemann/51433440956)
