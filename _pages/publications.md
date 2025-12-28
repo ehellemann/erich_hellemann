@@ -7,7 +7,7 @@ toc_sticky: true
 toc_label: "List of my publications"
 ---
 
-# Computational and Computer Aided Drug Design (CAAD) papers
+# Computational Biophysics and Computer Aided Drug Design (CAAD) papers
 
 ### Worth the Weight: Sub-Pocket EXplorer (SubPEx), a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling
 - **Erich Hellemann**, Jacob D. Durrant, "Worth the Weight: Sub-Pocket EXplorer (SubPEx), a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling", *J Chem Theory Comput*, **2023**, 219, 17, 5677–5689, DOI:[10.1021/acs.jctc.3c00478](https://doi.org/10.1021/acs.jctc.3c00478){:target="_blank"}
