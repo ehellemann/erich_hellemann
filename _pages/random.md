@@ -12,6 +12,8 @@ I will start with the picture of my lovely Huitlacoche. Her name comes from the 
 
 ![Huitlacoche](./assets/images/huitlacoche_small.png)
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/ehellemann/51433440956/in/dateposted/" title="le cat"><img src="https://live.staticflickr.com/65535/51433440956_cf2c243daf_b.jpg" width="1024" height="683" alt="le cat"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 This is one of my favorite photos I have taken. This was taken in a pond close to where we lived, when we lived in Michigan.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ehellemann/51527775058/in/dateposted/" title="Duck"><img src="https://live.staticflickr.com/65535/51527775058_1941beb9e2_c.jpg" width="800" height="533" alt="Duck"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
