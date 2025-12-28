@@ -9,8 +9,17 @@ toc_label: "List of my publications"
 
 # Computational and Computer Aided Drug Design (CAAD) papers
 
-### Defining the Yeast Resistome through in vitro Evolution and Whole Genome Sequencing
-- Sabine Ottilie, Madeline R. Luth, **Erich Hellemann**, Gregory M. Goldgof, Eddy Vigil, Prianka Kumar, Andrea L. Cheung, Miranda Song, Karla P. Godinez-Macias, Krypton Carolino, Jennifer Yang, Gisel Lopez, Matthew Abraham, Maureen Tarsio, Emmanuelle LeBlanc, Luke Whitesell, Jake Schenken, Felicia Gunawan, Reysha Patel, Joshua Smith, Melissa S. Love, Roy M. Williams, Case W. McNamara, William H. Gerwick, Trey Ideker, Yo Suzuki, Dyann F. Wirth, Amanda K. Lukens, Patricia M. Kane, Leah E. Cowen, Jacob D. Durrant, Elizabeth A Winzeler, "Defining the Yeast Resistome through in vitro Evolution and Whole Genome Sequencing", bioRxiv, **2021**, DOI:[10.1101/2021.02.17.430112 ](https://www.biorxiv.org/content/10.1101/2021.02.17.430112v1){:target="_blank"}
+### Worth the Weight: Sub-Pocket EXplorer (SubPEx), a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling
+- **Erich Hellemann**, Jacob D. Durrant, "Worth the Weight: Sub-Pocket EXplorer (SubPEx), a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling", *J Chem Theory Comput*, **2023**, 219, 17, 5677–5689, DOI:[10.1021/acs.jctc.3c00478](https://doi.org/10.1021/acs.jctc.3c00478){:target="_blank"}
+
+### Allosteric inhibition of TEM-1 beta lactamase: microsecond molecular dynamics simulations provide mechanistic insights
+- **Erich Hellemann**, Amrita Nallathambi, Jacob D. Durrant, "Allosteric inhibition of TEM-1 beta lactamase: microsecond molecular dynamics simulations provide mechanistic insights", *Protein Sci*, **2023**, 32(4), e4622, DOI:[10.1002/pro.4622](https://doi.org/10.1002/pro.4622){:target="_blank"}
+
+### Novel mutation in hexokinase 2 confers resistance to 2-deoxyglucose by altering protein dynamics
+- **Erich Hellemann**\*, Jennifer L. Walker\*, Mitchell A. Lesko\*, Dakshayini G. Chandrashekarappa, Martin C. Schmidt, Allyson F. O’Donnell , Jacob D. Durrant, "Novel mutation in hexokinase 2 confers resistance to 2-deoxyglucose by altering protein dynamics",*PLoS Comput Biol*, **2022**, 18(3):e1009929. \*equal contribution, DOI:[10.1371/journal.pcbi.1009929](https://doi.org/10.1371/journal.pcbi.1009929){:target="_blank"}
+
+### Adaptive laboratory evolution in *S. cerevisiae* highlights role of transcription factors in fungal xenobiotic resistance
+- Sabine Ottilie[^1], Madeline R. Luth[^1], **Erich Hellemann**[^2], Gregory M. Goldgof[^2], *et al.*, "Adaptive laboratory evolution in *S. cerevisiae* highlights role of transcription factors in fungal xenobiotic resistance", *Communications Biology*, **2022**, 5, 128, [^1,2]equal contribution, DOI:[10.1038/s42003-022-03076-7](https://www.nature.com/articles/s42003-022-03076-7)
 
 ### Webina: an open-source library and web app that runs AutoDock Vina entirely in the web browser
 - Yuri Kochnev, **Erich Hellemann**, Kevin C Cassidy, Jacob D Durrant, “Webina: an open-source library and web app that runs AutoDock Vina entirely in the web browser”, *Bioinformatics*, **2020**. DOI:[10.1093/bioinformatics/btaa579](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa579/5860016){:target="_blank"}
